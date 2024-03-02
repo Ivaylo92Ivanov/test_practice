@@ -1,0 +1,17 @@
+{
+  "name": "test_practice",
+  "version": "1.0.0",
+  "description": "An assignment project from the Odin Project curriculum",
+  "main": "index.js",
+  
+    "scripts": {
+      "test": "jest"
+    }
+  ,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
