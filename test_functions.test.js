@@ -60,10 +60,6 @@ test('caesarCipher: numbers', () => {
 
 // analyze array function
 
-// An analyzeArray function that takes an array of numbers 
-// and returns an object with the following properties: 
-// average, min, max, and length.
-
 test("Analyze array: average", () => {
   expect(analyzeArray([1,8,3,4,2,6]).average).toEqual(4)
 })
